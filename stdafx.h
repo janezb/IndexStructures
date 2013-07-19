@@ -13,6 +13,9 @@
 #include <tchar.h>
 
 #include <git/glib/base.h>
+#include "TestCommon.h"
+#include "Btree.h"
+#include "Lsh.h"
 
 
 
